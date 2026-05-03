@@ -472,10 +472,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-<div align="center">
 
-Made with  for smarter, accessible cardiac care.
-
-**HeartSync Pro** — *Intelligence at the edge, health in your hands.*
-
-</div>
